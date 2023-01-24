@@ -22,7 +22,7 @@ is produced, consumed, and managed across a wide range of applications and indus
 
 ## Now what is SolarEdge Multiapp?
 
-SolarEdge has multiple app, we know that but i am making a App with all those seperate apps + some extra stuff in there such as:
+SolarEdge has multiple apps, we know that but i am making a App with all those seperate apps + some extra stuff in there such as:
 
 - mySolarEdge (A app to maintain your own SolarEdge panels)
 - SolarEdge Monitoring (It says it all, monitor your SolarEdge Panels)
